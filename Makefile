@@ -1,4 +1,4 @@
-export TARGET = iphone:clang:latest:5.0
+export TARGET = iphone:clang:latest:15.0
 export ARCHS = armv7 armv7s arm64 arm64e
 export DEBUG = 0
 
