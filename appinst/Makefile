@@ -4,6 +4,7 @@ export DEBUG = 0
 
 THEOS_PACKAGE_DIR_NAME = debs
 PACKAGE_VERSION = $(THEOS_PACKAGE_BASE_VERSION)
+THEOS_PACKAGE_SCHEME=rootless
 
 include $(THEOS)/makefiles/common.mk
 
